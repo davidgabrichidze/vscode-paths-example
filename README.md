@@ -1,5 +1,6 @@
 # vscode-paths-example
-Example for VSCODE: Paths mapping support in TypeScript (Intellisense, Errors and Warnings, Go to Definition)
+Example for VSCODE: Paths mapping support in TypeScript (Intellisense, Errors and Warnings, Go to Definition) 
+Tracking [Issue #7226](https://github.com/Microsoft/vscode/issues/7226)
 
 This RF is related to TypeScript's **Path mappings based module resolution [#5039 ](https://github.com/Microsoft/TypeScript/issues/5039)**.  The link describes all details how Path mapping works. Please review it.
 
