@@ -1,4 +1,12 @@
 # vscode-paths-example
+
+---
+#Update
+
+"typescript.tsdk" in [User Settings](https://github.com/Microsoft/TypeScript-Handbook/blob/master/pages/Nightly%20Builds.md#visual-studio-code) should be configured. After installing typescript@1.9.0-dev.20160606-1.0 `npm -g typescript@next` everything worked fine. 
+
+---
+
 Example for VSCODE: Paths mapping support in TypeScript (Intellisense, Errors and Warnings, Go to Definition) 
 Tracking [Issue #7226](https://github.com/Microsoft/vscode/issues/7226)
 
